@@ -7,8 +7,8 @@
 body {
   height: 100vh;
   display: flex;
+
   background-image: url(imagens/floresta.jpg);
-}
 
 .memory-game {
   width: 640px;
