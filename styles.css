@@ -8,7 +8,7 @@ body {
   height: 100vh;
   display: flex;
 
-  background-image: #fffff;
+  background: #fffff;
 
 .memory-game {
   width: 640px;
